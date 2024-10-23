@@ -1,7 +1,6 @@
 # Problemario para operaciones CRUD
 
 ## CREACION DE LA BASE DE DATOS
-
 ```sql
 CREATE TABLE clientes (
     id_cliente INT PRIMARY KEY AUTO_INCREMENT,
